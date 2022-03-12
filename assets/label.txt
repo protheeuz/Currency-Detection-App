@@ -1,0 +1,5 @@
+0 Seratus(100) Ribu Rupiah
+1 Dua Puluh(20) Ribu Rupiah
+2 Sepuluh(10) Ribu Rupiah
+3 Lima Ribu(5) Ribu Rupiah
+4 Dua Ribu(2) Rupiah
