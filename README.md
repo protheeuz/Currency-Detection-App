@@ -1,6 +1,6 @@
-# bitdroid_clear
+# bitDroid - AI Mobile App
 
-A new Flutter project.
+Currency detection mobile apps
 
 ## Getting Started
 
